@@ -1,1 +1,3 @@
-import Disertation.Basic
+import Disertation.GCD
+
+-- import Disertation.Basic
